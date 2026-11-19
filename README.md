@@ -5,4 +5,4 @@ Basic mtg commander life counter made with python. Uses curses UI in terminal. I
 
 This was tested in Ubuntu on 1080p monitor.
 
-Disclaimer: I used AI for the template of this project. I then added the ascii art and made changes to the UI layout myself. Im dumb as shit so i needed the help lol/
+Disclaimer: I used AI for the template of this project. I then added the ascii art and made changes to the UI layout myself. Im dumb as shit so i needed the help lol
